@@ -2,6 +2,7 @@
 #Ver:1.0.0
 #Author:Startgo
 #website:https://startgo.youp.ga
+#https://github.com/ystartgo/UEFI_Reboot_Counter
 #測試開關機程式
 #修改開關機次數與於vtc.nsh文件
 #修改關機延遲於rt00.nsh文件
